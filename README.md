@@ -7,6 +7,8 @@ Watch my *[Demo videos!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 ## Project Source Codes:
 * [Hangman](https://github.com/AmyTu26304/stanCodeProjects/tree/main/hangman)
   * Python semantics & syntax
+* [Pedestrians Removal Application](https://github.com/AmyTu26304/stanCodeProjects/tree/main/myphotoshop)
+  * Image processing
 * [Name Popularity & Searching System](https://github.com/AmyTu26304/stanCodeProjects/tree/main/baby%20names)
   * Data structure
 * [Boggle Game Solver](https://github.com/AmyTu26304/stanCodeProjects/tree/main/boggle)
