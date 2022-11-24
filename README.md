@@ -13,7 +13,7 @@ Watch my *[Demo videos!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Data structure
 * [Boggle Game Solver](https://github.com/AmyTu26304/stanCodeProjects/tree/main/boggle)
   * Recursive functions
-* [Anagrams](https://github.com/AmyTu26304/stanCodeProjects/tree/main/anagram)
+* [Anagram Solver](https://github.com/AmyTu26304/stanCodeProjects/tree/main/anagram)
   * Recursive functions & algorithm optimization in anagram_ext.py\
 * [Bouncing Ball](https://github.com/AmyTu26304/stanCodeProjects/tree/main/bouncing%20ball)
   * Animation
